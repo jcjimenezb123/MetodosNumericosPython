@@ -1,7 +1,7 @@
 # Metodos con Python
 Este es el repositorio de programas para el curso de **Métodos Numérico con Python**
 
-##Temario
+## Temario
 - Introducción
   - Sistemas de numeración
     - Construcción de un sistema de numeración
