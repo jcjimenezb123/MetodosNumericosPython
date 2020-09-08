@@ -22,6 +22,6 @@ Este es el repositorio de programas para el curso de **Métodos Numérico con Py
   - Interpolación lineal
   - Interpolación cuadrática
   - Interpolación de Newton
-  - Interpolación de Lagrange
+  - Interpolación de Lagrange https://github.com/jcjimenezb123/MetodosNumericosPython/blob/master/Lagrange.ipynb
   - Spline o trazador cuadrático
   - Spline o trazador cúbico
