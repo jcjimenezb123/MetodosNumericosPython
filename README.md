@@ -4,7 +4,6 @@ Este es el repositorio de programas para el curso de **Métodos Numérico con Py
 ## Temario
 - Introducción
   - Sistemas de numeración
-    - Construcción de un sistema de numeración
     - Conversiones de enteros
     - Conversiones de fracciones
   - Errores
