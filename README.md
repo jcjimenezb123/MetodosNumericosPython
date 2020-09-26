@@ -52,5 +52,5 @@ Este es el repositorio de programas para el curso de **Métodos Numérico con Py
 - Integrales
   - Regla de los rectángulos
   - Regla de los trapecios
-  - Regla de Simpson \frac{1}{3}
-  - Regla de Simpson \frac{3}{8}
+  - Regla de Simpson $\frac{1}{3}$
+  - Regla de Simpson $\frac{3}{8}$
