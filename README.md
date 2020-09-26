@@ -52,5 +52,16 @@ Este es el repositorio de programas para el curso de **Métodos Numérico con Py
 - Integrales
   - Regla de los rectángulos
   - Regla de los trapecios
-  - Regla de Simpson $\frac{1}{3}$
-  - Regla de Simpson $\frac{3}{8}$
+  - Regla de Simpson 1/3
+  - Regla de Simpson 3/8
+  - Cuadratura de Gauss-Legendre
+  
+- Ecuaciones Diferenciales Ordinarias
+  - Euler
+  - Euler modificado
+  - Runge-Kutta de 4to orden
+  
+- Ecuaciones Diferenciales Parciales
+  - Hiperbólicas
+  - Parabólicas
+  - Elipticas
